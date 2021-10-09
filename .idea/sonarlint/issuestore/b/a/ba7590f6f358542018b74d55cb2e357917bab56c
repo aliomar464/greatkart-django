@@ -1,0 +1,8 @@
+
+upython:S117p"YRename this local variable "nextPage" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ã¬ªüÿÿÿÿ
+qpython:S3776<"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ññ™Ùøÿÿÿÿ
+Tpython:S5754f"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Hpython:S5806R"+Rename this variable; it shadows a builtin.(ƒ‡…Õøÿÿÿÿ
+Tpython:S5754r"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+rpython:S1542•"TRename function "forgotPassword" to match the regular expression ^[a-z_][a-z0-9_]*$.(’Í–¼úÿÿÿÿ
+lpython:S1542Á"SRename function "resetPassword" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÎÏï
